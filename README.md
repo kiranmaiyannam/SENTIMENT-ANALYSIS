@@ -31,3 +31,9 @@ F1-Score
 Confusion Matrix
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c17a4aa2-3574-4444-bd25-b81d63b2e3ee)
+
+![Image](https://github.com/user-attachments/assets/d12b652a-565a-4057-bafe-2f5760c5cf4d)
+
+![Image](https://github.com/user-attachments/assets/e6d19319-0e95-493a-a232-fbaa83c2bdba)
